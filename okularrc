@@ -1,0 +1,46 @@
+1280x720 screen: Window-Maximized=true
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAACAAAACjfwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAA5AAACjQAAAOkA///+AAAE9gAAAqEAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+
+[Desktop Entry]
+FullScreen=true
+shouldShowMenuBarComingFromFullScreen=false
+shouldShowToolBarComingFromFullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[MainWindow]
+1280x720 screen: Height=720
+1280x720 screen: Width=1280
+2559x1439 screen: Height=1419
+2559x1439 screen: Width=2539
+2559x1439 screen: XPosition=10
+2559x1439 screen: YPosition=10
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAACAAAACmvwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAUAAACmgAAAOkA///+AAAFAAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=$HOME/all1/f241911840.tif
+File10[$e]=$HOME/Downloads/S_Makleyn_-_Kategorii_Dlya_Rabotayuschego_Matematika.pdf
+File2[$e]=$HOME/all1/f209479544.tif
+File3[$e]=$HOME/all1/f330386552.tif
+File4[$e]=$HOME/all1/f53127528.pdf
+File5[$e]=$HOME/all1/f26075296.jpg
+File6[$e]=$HOME/all1/f31205352.jpg
+File7[$e]=$HOME/all1/f4652336.pdf
+File8[$e]=$HOME/all1/f16138968.pdf
+File9[$e]=$HOME/Downloads/Голдблатт_Топосы_Категорный_анализ_логики_1983.djvu
+Name1[$e]=f241911840.tif
+Name10[$e]=S_Makleyn_-_Kategorii_Dlya_Rabotayuschego_Matematika.pdf
+Name2[$e]=f209479544.tif
+Name3[$e]=f330386552.tif
+Name4[$e]=f53127528.pdf
+Name5[$e]=f26075296.jpg
+Name6[$e]=f31205352.jpg
+Name7[$e]=f4652336.pdf
+Name8[$e]=f16138968.pdf
+Name9[$e]=Голдблатт_Топосы_Категорный_анализ_логики_1983.djvu

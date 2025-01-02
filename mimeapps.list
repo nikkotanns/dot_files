@@ -1,0 +1,5 @@
+[Default Applications]
+text/plain=firefox.desktop
+
+[Added Associations]
+text/plain=firefox.desktop;
